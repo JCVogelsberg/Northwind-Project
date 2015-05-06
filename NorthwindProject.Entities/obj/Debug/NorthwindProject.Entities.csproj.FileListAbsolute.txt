@@ -1,0 +1,20 @@
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Entities\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Entities\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Entities\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Entities\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Entities\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Entities\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Entities\bin\Debug\NorthwindProject.Entities.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Entities\bin\Debug\NorthwindProject.Entities.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Entities\obj\Debug\NorthwindProject.Entities.pdb

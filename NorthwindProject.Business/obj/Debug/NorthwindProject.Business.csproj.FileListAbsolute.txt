@@ -1,0 +1,158 @@
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\13-Create The Concrete Business Managers\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.pdb
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.xml
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\14-Configure and Create Validation Rules Using FluentValidation for .Net\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.xml
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.pdb
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.xml
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\22- Create an Add Product Form\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.pdb
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.xml
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\da\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\de\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\es\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\fi\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\fr\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\it\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\ko\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\nl\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\pl\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\pt\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\ru\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\sv\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\bin\Debug\tr\FluentValidation.resources.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\24-Create an “Update Product Form”\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Business.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.DataAccess.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\NorthwindProject.Entities.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\FluentValidation.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\da\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\de\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\es\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\fi\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\fr\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\it\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\ko\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\nl\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\pl\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\pt\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\ru\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\sv\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\bin\Debug\tr\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.Business\obj\Debug\NorthwindProject.Business.pdb

@@ -1,0 +1,48 @@
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.dll.config
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.dll.config
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\12-Create The Business Abstraction\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.dll.config
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\18-Create The Product List\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.dll.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.DataAccess.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.Entities.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\NorthwindProject.Entities.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\NorthwindProject.DataAccess.pdb

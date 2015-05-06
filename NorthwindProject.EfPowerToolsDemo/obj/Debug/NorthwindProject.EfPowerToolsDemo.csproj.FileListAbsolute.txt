@@ -1,0 +1,20 @@
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\NorthwindProject.EfPowerToolsDemo.dll.config
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\NorthwindProject.EfPowerToolsDemo.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\NorthwindProject.EfPowerToolsDemo.pdb
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\obj\Debug\NorthwindProject.EfPowerToolsDemo.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\obj\Debug\NorthwindProject.EfPowerToolsDemo.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.EfPowerToolsDemo\obj\Debug\NorthwindProject.EfPowerToolsDemo.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\NorthwindProject.EfPowerToolsDemo.dll.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\NorthwindProject.EfPowerToolsDemo.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\NorthwindProject.EfPowerToolsDemo.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\obj\Debug\NorthwindProject.EfPowerToolsDemo.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\obj\Debug\NorthwindProject.EfPowerToolsDemo.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.EfPowerToolsDemo\obj\Debug\NorthwindProject.EfPowerToolsDemo.pdb

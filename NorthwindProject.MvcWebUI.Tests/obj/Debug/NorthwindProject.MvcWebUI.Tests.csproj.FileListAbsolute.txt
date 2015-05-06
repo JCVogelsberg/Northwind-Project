@@ -1,0 +1,150 @@
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.dll.config
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.pdb
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Owin.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.pdb
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.dll
+C:\MvcProjectRecords\10-Implement The DbContext Class\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.pdb
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.dll.config
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.pdb
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.Business.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.Entities.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Ninject.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\EntityFramework.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.DataAccess.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.Mvc.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.pdb
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.pdb
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.Business.pdb
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.Entities.pdb
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Ninject.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\EntityFramework.xml
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.DataAccess.pdb
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.Mvc.pdb
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\da\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\de\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\es\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\fi\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\fr\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\it\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\ko\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\nl\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\pl\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\pt\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\ru\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\sv\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\tr\FluentValidation.resources.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.csprojResolveAssemblyReference.cache
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.dll
+C:\MvcProjectRecords\28-Set The Forms Based Authentication\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.dll.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.Tests.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Helpers.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Mvc.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Razor.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Optimization.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.Business.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.Entities.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Ninject.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.DataAccess.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.Mvc.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.MvcWebUI.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Helpers.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Mvc.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Razor.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\System.Web.Optimization.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.Business.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.Entities.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\Ninject.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\NorthwindProject.DataAccess.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\FluentValidation.Mvc.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\da\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\de\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\es\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\fi\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\fr\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\it\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\ko\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\nl\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\pl\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\pt\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\ru\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\sv\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\bin\Debug\tr\FluentValidation.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\NorthwindProject\NorthwindProject.MvcWebUI.Tests\obj\Debug\NorthwindProject.MvcWebUI.Tests.pdb
